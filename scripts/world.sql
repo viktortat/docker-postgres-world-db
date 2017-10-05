@@ -9,6 +9,10 @@ BEGIN;
 
 SET client_encoding = 'LATIN1';
 
+CREATE SCHEMA IF NOT EXISTS sc_world;
+
+SET search_path TO sc_world;
+
 CREATE TABLE city (
     id integer NOT NULL,
     name text NOT NULL,

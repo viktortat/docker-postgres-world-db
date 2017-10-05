@@ -1,5 +1,8 @@
 # Change Log
 
+## 2.x-custom-schema (2017-10-05)
+Use schema 'sc_world' instead of default ('public')
+
 ## 2.1.1 (2017-10-05)
 Simplify Dockerfile (no need for zipped SQL scripts)
 
