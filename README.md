@@ -19,7 +19,7 @@ See also PostgreSQL [Sample Databases](https://wiki.postgresql.org/wiki/Sample_D
 
 ## Schema
 
-- public
+- sc_world
 
 ## Tables
 This database contains 3 tables :
