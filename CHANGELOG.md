@@ -1,5 +1,9 @@
 # Change Log
 
+## 2.3-beta.1 (2018-07-26)
+Upgrade to PostgreSQL 11 (Beta 2).  
+See https://www.postgresql.org/about/news/1867/ 
+
 ## 2.2 (2017-10-06)
 Upgrade to PostgreSQL 10.  
 See https://www.postgresql.org/about/news/1786/ 
